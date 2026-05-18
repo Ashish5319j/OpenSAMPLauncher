@@ -24,8 +24,8 @@ import java.net.UnknownHostException;
 import java.util.Locale;
 
 public class ServerConfig {
-    public String IP = "";
-    public int Port = 0;
+    public String IP = "188.127.241.74";
+    public int Port = 2734;
 
     public String Name = "";
     public String Password = "";
